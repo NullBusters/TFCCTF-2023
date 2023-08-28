@@ -14,4 +14,6 @@ I changed into
 
 And we have first flag
 
- <img src="screenshot/flag_ducky.png">
+
+ ![Alt text](screenshot/flag_ducky.png?raw=true)
+
