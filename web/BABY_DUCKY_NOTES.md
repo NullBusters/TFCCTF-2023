@@ -14,4 +14,4 @@ I changed into
 
 And we have first flag
 
- <img src="screenshoots/flag_ducky.png">
+ <img src="screenshoot/flag_ducky.png">
